@@ -1,2 +1,2 @@
 # beginners-guide
-A collaborative project for beginners at front-end development. We are sharing this project between brand new developers.
+A collaborative project for beginners at front-end development. We are sharing this project between brand new developers who have little no experience.
